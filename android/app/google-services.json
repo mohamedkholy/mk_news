@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "556169116114",
+    "project_id": "mknews-4a08b",
+    "storage_bucket": "mknews-4a08b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:556169116114:android:bdf7ade746206971ea700b",
+        "android_client_info": {
+          "package_name": "com.example.mknews"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBMldUYRHJE6IrlE_aK7CoDQLMUeY8f9k4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
